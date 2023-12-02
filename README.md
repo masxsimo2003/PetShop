@@ -8,7 +8,7 @@
 
 ## Команды
 
-- `$ django-admin startproject PetShop` - создание базового проекта
-- `$ python3 PetShop/manage.py runserver` - запуск проекта
-- `$ python3 PetShop/manage.py migrate` - обновление базы данных
-- `$ cd PetShop && python3 manage.py startapp user` - создать приложение
+- `$ django-admin startproject PetShop` - создать базовый проект
+- `$ python3 PetShop/manage.py runserver` - запустить проект
+- `$ python3 PetShop/manage.py migrate` - обновить базу данных
+- `$ cd PetShop && python3 manage.py startapp product` - создать модуль
